@@ -1,0 +1,10 @@
+{
+    "name":"dvdsndr/iwd-all",
+    "type":"magento-module",
+    "license":"OSL-3.0",
+    "homepage":"https://github.com/dvdsndr/iwd-all",
+    "description":"IWD Agency - All required for extensions",
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
